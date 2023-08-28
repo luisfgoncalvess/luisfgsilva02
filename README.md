@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @luis felipe
 - 👀 I’m interested in looking forward each time more in programming.
-- 🌱 I’m currently learning about python, HTML, CSS and DataScience.
+- 🌱 I’m currently learning about python, HTML, CSS and Javascript.
 - 💞️ I’m looking to collaborate on building strong business networking.
 - 📫 How to reach me...
 - Email-> luisfgsilva02@gmail.com
